@@ -2,4 +2,4 @@
 
 ## Результат Вы можете посмотреть тут:
 
-[Пробую верстать](https://bondarkirill.github.io/Figma/)
+[Сверстал, зацените](https://bondarkirill.github.io/Figma/)
